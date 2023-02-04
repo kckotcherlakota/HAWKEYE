@@ -17,4 +17,5 @@ With the increase in the crime's day by day, there is a potential need for an In
 - Downloadable Excel Sheet with the time-sheets
 - Runs on a Single Click
 - Enhances the existing CCTV to an Ultra HD using Image Enhancement Algorithms.
+- Has an Login and Admin Access
 
